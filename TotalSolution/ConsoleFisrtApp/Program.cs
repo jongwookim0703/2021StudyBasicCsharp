@@ -8,6 +8,7 @@ namespace ConsoleFisrtApp
         {
             Console.WriteLine("Hello World!"); //asdasd
             Console.WriteLine("Second print"); 
+            Console.WriteLine("Third print"); 
         }
     }
 }
