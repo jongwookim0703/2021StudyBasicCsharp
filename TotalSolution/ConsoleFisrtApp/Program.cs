@@ -7,6 +7,7 @@ namespace ConsoleFisrtApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!"); //asdasd
+            Console.WriteLine("Second print"); 
         }
     }
 }
